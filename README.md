@@ -1,6 +1,13 @@
 # Telegram Weather Bot
 
-A full-stack monorepo for a Telegram bot that provides weather updates, with an admin panel and a React frontend.
+A full-stack monorepo for a Telegram bot that provides weather updates, with an admin panel .Build using node js , express and  React .
+
+---
+
+## Demo Video 
+  
+
+https://github.com/user-attachments/assets/11bc4202-cc2b-4378-a93f-6718cecb904e
 
 ---
 
