@@ -1,0 +1,14 @@
+# Ignore all node_modules folders recursively
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Build output folders
+dist/
+build/
+
+# Optional: system files you might want to ignore
+.DS_Store
+Thumbs.db
