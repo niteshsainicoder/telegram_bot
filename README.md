@@ -96,14 +96,6 @@ Each module uses its own `.env` file:
 
 ---
 
-## Notes
-
-- `.gitignore` excludes all `node_modules` and sensitive files.
-- Never commit your `.env` files.
-- Customize ports and URLs as needed.
-
----
-
 ## Contact
 
 - **Nitesh Saini**
